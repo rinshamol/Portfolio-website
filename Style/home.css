@@ -335,7 +335,11 @@ form{
     text-decoration: none;
     color: #d4c1e5;
     font-family: thin;
+    cursor: pointer;
 
+}
+.foot-Q:hover{
+    color: #ae76ef;
 }
 .links{
     padding-top: 40px;
@@ -349,6 +353,12 @@ form{
     width: 45px;
     margin-left: 10px;
     margin-top: 10px;
+    padding: 5px 5px 5px 5px;
+}
+.img4:hover{
+    background-color: #ae76ef;
+    border-radius: 3px;
+   
 }
 .img5{
     width: 50px;
